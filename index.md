@@ -1,5 +1,5 @@
 ---
-title: (m) ein Lerntagebuch 
+title: (m)ein Lerntagebuch 
 ---
 
 ## Lets blog!
