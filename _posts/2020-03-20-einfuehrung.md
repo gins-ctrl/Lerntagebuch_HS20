@@ -1,6 +1,6 @@
 ---
-title: "Einführungsartikel"
-date: 2020-03-20
+title: "0 Wer bin ich und wenn ja wie viele"
+date: 2020-09-13
 ---
 
-Ich erwarte von diesem Kurs ...
+Hier sind bald meine Erwartungen ans Modul wie auch meine Vorkenntnisse und mein persönlicher "Startpunkt" mit Bibliotheks- und Archivinformatik zu lesen.
