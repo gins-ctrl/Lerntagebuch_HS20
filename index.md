@@ -1,7 +1,9 @@
 ---
-title: Lerntagebuch
+title: (m) ein Lerntagebuch 
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Lets blog!
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Dieses Lerntagebuch entsteht im Rahmen des Moduls **Bibliotheks- und Archivinformatik** im Studiengang Information Science der Fachhochschule Graubünden (FHGR). 
+Nach jeder Vorlesung wird deren Inhalt in meinen eigenen Worten zusammengefasst und mit meinen persönlichen Learnings, Schwierigkeiten und Erfahrungen angereichert. 
+Ich bin gespannt was das BAIN`sche Modul zu bieten hat...
