@@ -1,6 +1,6 @@
 ---
 title: "1 shell we start?"
-date: 2020-09-13
+date: 2020-09-26
 ---
 ## Einführung
 Da ich die vergangenen Semesterferien 80% als Praktikantin mit Arbeiten verbrachte (und ich einfach nicht wahrhaben wollte, dass das neue Semester bereits wieder losgeht) habe ich mich null auf die kommenden Module vorbereitet. So war es auch mit BAIN, das bei meiner Vertiefungsrichtung ‚Archivierung‘ sinnvollerweise zu den Pflichtmodulen zählt. Also sehr dürftiger Einstieg meinerseits – zu unserem Glück nicht auch auf „dozierenderseits“: Das Modul scheint gut strukturiert, organisiert und mit motivierten und sehr engagierten Dozenten unter einem guten Stern zu stehen. Also, shell we start?
