@@ -13,11 +13,10 @@ Die Modulinhalte sind mittels einer CodiMD-Installation einseh-, und von allen, 
 
 ![Modulüberblick](https://pad.gwdg.de/uploads/upload_4710561903c2b829c76a62df6232af74.png)
 
-Der Modulüberblick hat dann den Optimismus teils wieder zunichte gemacht ;) 
 Für mich wichtig: 
-+[Koha](https://koha-community.org/about/): erstes open source Bibliothekssystem an dessen Entwicklung eine weltweite Gemeinschaft arbeitet, 
-+[ArchivesSpace](https://archivesspace.org/about/mission): quelloffene, webbasierte Archiv-Software – sozusagen von Archiven für Archive entwickelt und 
-+[DSpace](https://duraspace.org/dspace/about/): eine quelloffene Software für digitale Repositorys.
++ [Koha](https://koha-community.org/about/): erstes open source Bibliothekssystem an dessen Entwicklung eine weltweite Gemeinschaft arbeitet, 
++ [ArchivesSpace](https://archivesspace.org/about/mission): quelloffene, webbasierte Archiv-Software – sozusagen von Archiven für Archive entwickelt und 
++ [DSpace](https://duraspace.org/dspace/about/): eine quelloffene Software für digitale Repositorys.
 Wir sollten also am Ende des Moduls Kenntnisse darüber haben, wie wir über - respektive aus - diesen 3 Repository Software über Schnittstellen die jeweiligen Metadaten zusammenführen und mittels Crosswalks dann am Ende MARC21 erhalten. Ich belasse es an dieser Stelle mit dieser rudimentären Beschreibung und erhoffe mir dann am Ende des Kurses die Zusammenhänge zu verstehen und nicht nur Begriffe zu lesen, die ich nicht wirklich zuordnen kann.
 
 ## Arbeitsumgebung und die liebe Shell
