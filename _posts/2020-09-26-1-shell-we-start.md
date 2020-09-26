@@ -13,7 +13,8 @@ Die Modulinhalte sind mittels einer CodiMD-Installation einseh-, und von allen, 
 
 ![Modulüberblick](https://pad.gwdg.de/uploads/upload_4710561903c2b829c76a62df6232af74.png)
 
-Der Modulüberblick hat dann den Optimismus teils wieder zunichte gemacht ;) Für mich wichtig: 
+Der Modulüberblick hat dann den Optimismus teils wieder zunichte gemacht ;) 
+Für mich wichtig: 
 +[Koha](https://koha-community.org/about/): erstes open source Bibliothekssystem an dessen Entwicklung eine weltweite Gemeinschaft arbeitet, 
 +[ArchivesSpace](https://archivesspace.org/about/mission): quelloffene, webbasierte Archiv-Software – sozusagen von Archiven für Archive entwickelt und 
 +[DSpace](https://duraspace.org/dspace/about/): eine quelloffene Software für digitale Repositorys.
