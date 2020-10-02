@@ -35,8 +35,10 @@ Diese sind jeweils im „Wurzelelement“ in der XML-Datei zuhause und dienen de
 >
 > Qualifizierter Elementname: dc:title
 
+
 ## Teil 2 von Koha(la)
 (Kohala, deshalb weil mich gerade Verniedlichung etwas freundlicher gegenüber Informatik stimmt) 
+
 Die Installation hat, wie bereits im vorherigen Blogbeitrag beschrieben, einwandfrei funktioniert. Hurray! Ich war danach wohl etwas übereifrig, denn ich habe die Übungen, die während der heutigen Vorlesung in Teilgruppensitzungen gelöst werden sollten, bereits gemacht. Dabei bin ich jedoch über die Suche im NEBIS-Katalog gestoplert, die keine Ergebnisse ausgeben wollte. Die Erklärung dazu folgt…
 
 Als erste Übung galt es einen vereinfachten Bibliotheksworkflow zu durchleben. Es sollte ein Buch erfasst und ein Benutzer angelegt werden, der dann an der „Theke“ eben jenes Buch ausleihen und ohne es gelesen zu haben wieder zurückgeben will (?! ;)). Das habe ich sowohl in meinem übermässig starken Flow bereits alleine als auch mit meiner Gruppe dann während der Vorlesung gemeinsam gemacht. Die Koha-Benutzeroberfläche empfinde ich als sehr übersichtlich und die Bedienung ist sogar für mich als Nicht-Bibliotheks-Tier sehr intuitiv. Nachstehend einige unserer im Plenum gesammelten Notizen und Anmerkungen zu diesem Mini-workflow:
