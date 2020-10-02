@@ -60,7 +60,7 @@ Da ich schon viel getippt, gelesen, geübt und gelernt habe, und der Überblick 
 + [Hier](https://americanlibrariesmagazine.org/wp-content/uploads/2020/04/charts-for-2020-Library-Systems-Report.pdf) die von Marshall Breeding veröffentlichte Statistik-zusammenfassende Tabelle über Bibliothekssysteme, die internationale Entwicklungen erahnen lässt.
 + Swiss Library Service Plattform (kurz SLSP) als kommender Ersatz von Alma
 + FOLIO ist die grösste Open-Source-Alternative, die noch in der Entwicklung steckt
-+ Vergleich Alma und Koha: da will ich mich noch etwas einlesen und werde spätestens im hoffentlich etwas ruhigeren Januar noch ergänzen 
++ Vergleich Alma und Koha: da will ich mich noch etwas einlesen und werde spätestens im hoffentlich etwas ruhigeren Januar noch ergänzen :snowflake:
 
 Diese manuellen Bedienungen schätze ich als Nicht-Bibliotheks-Mensch sehr. Und gleich als Überleitung zur nächsten Vorlesung: die Installation von ArchivesSpace 2.8.0. hat super funktioniert und ist abgeschlossen. JUUHU!
 
