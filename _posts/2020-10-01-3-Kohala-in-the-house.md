@@ -7,12 +7,13 @@ Bevor es an die Lehrinhalte geht hier vorab noch einige relevante Kommentare und
 
 ### … GitHöbb und Gitläbb
 Während der letzten Vorlesung kamen wir auf GitHub und GitLab zu sprechen. Ich habe mich da nur ein wenig über den Grundgedanken von Git, respektive GitHub, welches ja für das vorliegende lerntagebuch Anwendung findet, informiert. Nun sind die Unterschiede in der dritten Vorlesung nochmals aufgegriffen worden, weshalb ich für mich eine Aufstellung einiger Anhaltspunkte gemacht habe:
-GitHub
+
+**GitHub**
 + enorm hohe Nutzerzahl, von Microsoft aufgekauft
 + etwas mehr Beschränkungen bei der kostenlosen Version (bspw. Zulassung von nur 3 Entwicklern in einem privaten Repository)
 + ist auf einem Webserver installiert
 
-GitLab
+**GitLab**
 + ist noch eigenständig
 + ermöglicht kostenlos das Hosting des eigenen Servers (läuft lokal)
 + etwas übersichtlichere Benutzeroberfläche
