@@ -1,7 +1,8 @@
 ---
-title: "3 Kohala in the house"
+title: "3 Funktion und Aufbau von Archivsystemen"
 date: 2020-10-02
 ---
+Kohala in the house
 
 Bevor es an die Lehrinhalte geht hier vorab noch einige relevante Kommentare und Hinweise seitens der Dozierenden…
 
