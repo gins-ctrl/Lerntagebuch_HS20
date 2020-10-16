@@ -2,7 +2,7 @@
 title: "0 Technische Grundlagen"
 date: 2020-09-13
 ---
-*Wer bin ich und wenn ja wie viele*
+Wer bin ich und wenn ja wie viele
 
 Dieser philosophische Titel vom gleichnamigen Buch „Wer bin ich und wenn ja wie viele – eine philosophische Reise“ aus der Feder von Richard David Precht trifft es in meinem ganz persönlichen, etwas hoffnungslosen Fall ganz gut. Philosophie ist für mich nicht immer greifbar, etwas abstrakt und weit weg – und oftmals lese ich etwas noch einmal in der Hoffnung den Sinn und die Logik dahinter zu verstehen. Ja ja, ich weiss – es geht hier um Bibliotheks- und Archivinformatik.. Für mich ist hier die Ausgangslage aber in etwa gleich wie bei der Philosophie!
 
