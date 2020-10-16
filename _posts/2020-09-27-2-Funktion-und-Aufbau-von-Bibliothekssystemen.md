@@ -2,7 +2,7 @@
 title: "2 Funktion und Aufbau von Bibliothekssystemen 2/2"
 date: 2020-09-27
 ---
-*Marc, 21, in Dublin oder so*
+Marc, 21, in Dublin oder so
 
 Die zweite Vorlesung war für mich etwas frustrierend, da mich technische Schwierigkeiten vom Motiviertsein und Vorwärtskommen abhielten. 
 Zu Beginn wurde auf die neue Möglichkeit von virtuellen Gruppenarbeiten mit Teilgruppensitzungen via dem von der FHGR eingesetzten Tool ‚Webex‘ hingewiesen. So sind wir nicht mehr gezwungen uns über eine andere Anwendung mit den anderen Gruppenmitglieder’innen kurzzuschliessen, sondern können das direkt in Webex machen. Ausserdem können wir bei Problemen oder Fragen bei den Übungen Unterstützung anfordern und die Dozierenden können die Kontrolle über unseren Desktop, respektive unsere virtuelle Maschine übernehmen und so auf eine gewinnbringende Art und Weise Hilfestellung leisten. 
