@@ -21,6 +21,7 @@ Anmerkungen
 Kontrolle
 
 Ausserdem die 6 Pflichtfelder in ISAD(G): 
+
 Signatur, Titel, Provenienz, Entstehungszeitraum, Umfang und Verzeichnungsstufe
 
 #### Problematisch ist in ISAD(G)…
