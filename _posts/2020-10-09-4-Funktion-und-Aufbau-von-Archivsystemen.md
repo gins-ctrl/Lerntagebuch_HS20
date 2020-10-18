@@ -20,7 +20,8 @@ Sachverwandte Unterlagen
 Anmerkungen
 Kontrolle
 
-Ausserdem die 6 Pflichtfelder in ISAD(G): Signatur, Titel, Provenienz, Entstehungszeitraum, Umfang und Verzeichnungsstufe
+Ausserdem die 6 Pflichtfelder in ISAD(G): 
+Signatur, Titel, Provenienz, Entstehungszeitraum, Umfang und Verzeichnungsstufe
 
 #### Problematisch ist in ISAD(G)…
 …dass einzelne Objekte ohne die Einbettung in ihren Kontext nicht mehr verständlich sein können, 
@@ -38,7 +39,7 @@ Als eine nicht vollständige Auflistung der Funktionen und Eigenschaften von Arc
 
 Soviel also mal zum Theoretischen. 
 Praktisch muss das System natürlich mal installiert (check) und in unserem Fall manuell mittels Eingabe von archivesspace/archivesspace.sh im Terminal gestartet werden (check – check). In der Shell flimmern ab dann ‚zig Meldungen über den Schirm, was an sich ignoriert werden kann. Die Verfügbarkeit der Software ist hingegen an das Terminal gebunden – es darf also nicht geschlossen werden. Dann ist es im Browser unter unterschiedlichen Ports verfügbar. 
-Für uns wichtig: http://localhost:8080 (staff interface) und http://localhost:8081 (public interface)
+Für uns wichtig: [staff interface](http://localhost:8080/) und [public interface](http://localhost:8081/)
 
 Da ich die Vorlesung etwas früher verlassen musste und ich somit die Bedienung von ArchivesSpace anhand von Übungen nur am Rande mitbekommen habe, wird dies im nächsten Beitrag thematisiert.
 
