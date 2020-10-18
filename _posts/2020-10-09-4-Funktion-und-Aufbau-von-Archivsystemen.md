@@ -42,7 +42,8 @@ Für uns wichtig: http://localhost:8080 (staff interface) und http://localhost:8
 
 Da ich die Vorlesung etwas früher verlassen musste und ich somit die Bedienung von ArchivesSpace anhand von Übungen nur am Rande mitbekommen habe, wird dies im nächsten Beitrag thematisiert.
 
-Aus dramaturgischen zeitlichen Gründen sind die Übungen mit AS zu Import und Export wie auch der Marktüberblick über die Archivsysteme Inhalt der nächsten Vorlesung…Trommelwirbel…
+Aus ~~dramaturgischen~~ zeitlichen Gründen sind die Übungen mit AS zu Import und Export wie auch der Marktüberblick über die Archivsysteme Inhalt der nächsten Vorlesung!
+…Trommelwirbel…
 
 ## To Do`s 
 Text „was sich Historiker’innen von Archiven wünschen“ lesen und wegen den bereits wieder aufgebrauchten Zeichen in einen anderen Beitrag schmuggeln…
