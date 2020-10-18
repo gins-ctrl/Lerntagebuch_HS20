@@ -57,7 +57,7 @@ Dann noch ein Datenexport, der über die Schnittstelle OAI-PMH, was so viel wie 
 Zurück zur Übung, die im Aktivieren der OAI-PMH-Schnittstelle in Koha und dem Überprüfen, ob die von uns erstellen Datensätze so abrufbar sind (Spoiler: ja, waren sie), bestand. Haupterkenntnis daraus: Koha macht intern alles mit MARC21  aber über die Schnittstelle können die von uns katalogisierten Medien in verschiedenen Formaten angezeigt werden (DC, MARC21, MARCXML)
 
 ## Marktüberblick Bibliothekssysteme
-Da ich schon viel getippt, gelesen, geübt und gelernt habe, und der Überblick in der Vorlesung aus zeitlichen Gründen eher kurz ausfiel, hier eher wenige Worte dazu:
+Da ich schon viel getippt, gelesen, geübt und gelernt habe, der Überblick in der Vorlesung aus zeitlichen Gründen eher kurz ausfiel und ich die verschiedenen Bibliothekssysteme nicht per se mit eigenen praktischen Erfahrungen verbinden kann, lebt der Marktüberblick Bibliothekssysteme nicht von Ausführlichkeit:
 + [Hier](https://americanlibrariesmagazine.org/wp-content/uploads/2020/04/charts-for-2020-Library-Systems-Report.pdf) die von Marshall Breeding veröffentlichte Statistik-zusammenfassende Tabelle über Bibliothekssysteme, die internationale Entwicklungen erahnen lässt.
 + Swiss Library Service Plattform (kurz SLSP) als kommender Ersatz von Alma
 + FOLIO ist die grösste Open-Source-Alternative, die noch in der Entwicklung steckt
