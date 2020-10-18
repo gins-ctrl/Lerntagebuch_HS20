@@ -7,20 +7,20 @@ Kohala in the house
 Bevor es an die Lehrinhalte geht hier vorab noch einige relevante Kommentare und Hinweise seitens der Dozierenden…
 
 ### … GitHöbb und Gitläbb
-Während der letzten Vorlesung kamen wir auf GitHub und GitLab zu sprechen. Ich habe mich da nur ein wenig über den Grundgedanken von Git, respektive GitHub, welches ja für das vorliegende lerntagebuch Anwendung findet, informiert. Nun sind die Unterschiede in der dritten Vorlesung nochmals aufgegriffen worden, weshalb ich für mich eine Aufstellung einiger Anhaltspunkte gemacht habe:
+Während der letzten Vorlesung kamen wir auf GitHub und GitLab zu sprechen. Ich habe mich da nur ein wenig über den Grundgedanken von Git, respektive GitHub, welches ja für das vorliegende Lerntagebuch Anwendung findet, informiert. Nun sind die Unterschiede in der dritten Vorlesung nochmals aufgegriffen worden, weshalb ich für mich eine Aufstellung einiger Anhaltspunkte gemacht habe:
 
 **GitHub**
-+ enorm hohe Nutzerzahl, von Microsoft aufgekauft
-+ etwas mehr Beschränkungen bei der kostenlosen Version (bspw. Zulassung von nur 3 Entwicklern in einem privaten Repository)
-+ ist auf einem Webserver installiert
++ lebt von einer enorm hohen Nutzerzahl, wurde von Microsoft aufgekauft,
++ hat etwas mehr Beschränkungen bei der kostenlosen Version (bspw. Zulassung von nur 3 Entwicklern in einem privaten Repository) und
++ ist auf einem Webserver installiert.
 
 **GitLab**
-+ ist noch eigenständig
-+ ermöglicht kostenlos das Hosting des eigenen Servers (läuft lokal)
-+ etwas übersichtlichere Benutzeroberfläche
-+ Skalierung des User Interfaces lässt auch eine benutzerfreundliche Ansicht auf mobilen Endgeräten zu
++ ist noch eigenständig,
++ ermöglicht kostenlos das Hosting des eigenen Servers (läuft lokal),
++ hat eine etwas übersichtlichere Benutzeroberfläche und
++ die Skalierung des User Interfaces lässt auch eine benutzerfreundliche Ansicht auf mobilen Endgeräten zu.
 
-Sonst noch nice-to-know: 
+Sonst noch gut zu wissen: 
 + [Zitat:](https://www.ionos.de/digitalguide/websites/web-entwicklung/gitlab-vs-github/) „Da GitHub und GitLab beide auf Git basieren, ist eine Migration von einer Plattform auf die andere ohne größere Probleme möglich.“   
 + Auf GitHub sowie auf GitLab findet sich Open Source Software – aber nur GitLab ist selbst Open Source (in der Community Edition)
 
