@@ -2,19 +2,19 @@
 title: "5 Repository-Software für Publikationen und Forschungsdaten"
 date: 2020-10-16
 ---
-ArchivesSpace Teil 2 und bisschen Repository für Publikationen und Forschungsdaten
+inkl. ArchivesSpace Teil 2 
  
 Obschon wir die Bedienung von ArchivesSpace (AS) bereits am Ende der letzten Vorlesung begonnen haben, wird der gesamte praktische Teil in diesem Post „verarbeitet“. 
 
 Als Grundkonfiguration galt es ein eigenes Repository in ArchivesSpace zu erstellen. Hier für uns wichtig zu beachten: das Anwählen der Checkbox *Publish?* wird – soll das Repository später dann im public interface einsehbar sein – vorausgesetzt. Danach galt es eigene Datensätze zu erstellen, die dann in eben genanntem public interface zu sehen sein sollen. In AS können ausschliesslich die Sprachen Englisch, Spanisch, Französisch und Japanisch konfiguriert werden, weshalb für das Handling der Software das Verständnis der englischen Begriffe wie Accession, Resource und Archival Objects unabdingbar ist. 
 
-Accession: 
-Um dem Provenienzprinzip Folge zu leisten ist es vorerst notwendig Informationen zur  Herkunft/zum Erwerb (wie sind sie entstanden? wie sind die Materialien ins Archiv gekommen? Welche „Stationen“ durchliefen sie?) des Bestandes zu erfassen. Es wird also ein Datensatz für die Erwerbung erstellt, der dann wiederum mit Resourcen verknüpft werden kann. Die hier hinterlegten Informationen werden dann der damit verknüpften Resource „vererbt“.
++ Accession: 
+  + Um dem Provenienzprinzip Folge zu leisten ist es vorerst notwendig Informationen zur  Herkunft/zum Erwerb (wie sind sie entstanden? wie sind die Materialien ins Archiv gekommen? Welche „Stationen“ durchliefen sie?) des Bestandes zu erfassen. Es wird also ein Datensatz für die Erwerbung erstellt, der dann wiederum mit Resourcen verknüpft werden kann. Die hier hinterlegten Informationen werden dann der damit verknüpften Resource „vererbt“.
 
-Resource: 
++ Resource: 
 Mittels Anlegen von einem Resourcen-Datensatz können die Bestände und Materialien genauer erschlossen werden. Dies stellt der zentrale Nachweis auf der obersten Verzeichnungsstufe dar. Eine Resource kann selbst eine Collection sein, an die wiederum eine weitere Collection oder aber Archival Objects angehängt werden können.
 
-Archival Objects:
++ Archival Objects:
 sind dementsprechend Nachweise auf den Verzeichnungsstufen unter der Ressource. Die  Erschliessung ist auf der Ebene Bestand (Fonds), Serie (Series) über die Akte (File) bis hin zum Einzelstück (Item) möglich. 
 
 Um eine tiefere Verzeichnungsstufe anlegen zu können, muss die jeweilige Ressource aufgerufen und bearbeitet und über „Add Child“ (oder bei Objekten auf derselben Stufe „Add Sibling“) gewählt werden.
@@ -42,8 +42,8 @@ Open Access: freier Zugang zu PUBLIKATIONEN
 Open Data: Verzeichnis von FORSCHUNGSDATEN 
 Forschungsinformation: Informationen über die Forschenden selbst, Forschungsfinanzierung, Patente,
 Forschungsberichterstattung: Grundlage dafür sind Forschungsinformations(-systeme)
-Best Practice Beispiel: Zenodo (kostenlos, Versionisierung, ID-Vergabe,…)
-ORCID: Zusammenschluss von Verlagen und Institutionen mit dem Ziel international eine ID für Forschende umzusetzen (wie die DOI für Dokumente)
++ Best Practice Beispiel: Zenodo (kostenlos, Versionisierung, ID-Vergabe,…)
++ ORCID: Zusammenschluss von Verlagen und Institutionen mit dem Ziel international eine ID für Forschende umzusetzen (wie die DOI für Dokumente)
 
 ### Wir lernen DSpace…
 …als Software für Publikationen und Forschungsdaten (in der Demo Version) kennen. Die Erweiterung für die Verwaltung von Forschungsinformationen ist dann DSpace-CRIS.
