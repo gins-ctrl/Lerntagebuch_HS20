@@ -34,10 +34,11 @@ Bibliotheken setzen den Fokus auf die Vermittlung von Medien und legen viel Wert
 
 ## Repository-Software für Publikationen und Forschungsdaten
 Das Wichtigste in Kürze:
-Open Access: freier Zugang zu PUBLIKATIONEN 
-Open Data: Verzeichnis von FORSCHUNGSDATEN 
-Forschungsinformation: Informationen über die Forschenden selbst, Forschungsfinanzierung, Patente,
-Forschungsberichterstattung: Grundlage dafür sind Forschungsinformations(-systeme)
++ Open Access: freier Zugang zu ForschungsPUBLIKATIONEN 
++ Open Data: Verzeichnis von ForschungsDATEN 
++ Forschungsdaten: Während der Forschung erhobene Daten
++ Forschungsinformation: Informationen über die Forschenden selbst, Forschungsfinanzierung, Patente etc.
++ Forschungsberichterstattung: Grundlage dafür sind Forschungsinformations(-systeme), kurz FIS
 + Best Practice Beispiel: Zenodo (kostenlos, Versionisierung, ID-Vergabe,…)
 + ORCID: Zusammenschluss von Verlagen und Institutionen mit dem Ziel international eine ID für Forschende umzusetzen (wie die DOI für Dokumente)
 
