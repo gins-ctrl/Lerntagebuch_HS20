@@ -2,7 +2,7 @@
 title: "3 Funktion und Aufbau von Archivsystemen"
 date: 2020-10-02
 ---
-Koha(la in the house)
+Koha(la) :koala:
 
 Bevor es an die Lehrinhalte geht hier vorab noch einige relevante Kommentare und Hinweise seitens der Dozierenden…
 
