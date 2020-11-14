@@ -44,5 +44,5 @@ Das Wichtigste in Kürze:
 + ORCID: Zusammenschluss von Verlagen und Institutionen mit dem Ziel international eine ID für Forschende umzusetzen (wie die DOI für Dokumente)
 
 #### Wir lernen DSpace…
-…als Software für Publikationen und Forschungsdaten (in der Demo Version) kennen, die mit dem Metadatenstandard Qualified Dublin Core arbeitet. Die Erweiterung für die Verwaltung von Forschungsinformationen ist dann DSpace-CRIS. Ende. *Durch Zeichenmangel bedingter Cliffhanger*
-
+…als Software für Publikationen und Forschungsdaten (in der Demo Version) kennen, die mit dem Metadatenstandard Qualified Dublin Core arbeitet. Die Erweiterung für die Verwaltung von Forschungsinformationen ist dann DSpace-CRIS. DSpace bietet dateibasierte Importe und die Schnittstellen SWORD (publizieren in DSpace auf anderen Webseiten) und OAI-PMH (externe Systemen können auf Metadaten, die in DSpace abgelegt sind zugreifen)
+Ausserdem relevante (Open Source) Systeme in D/A/CH: Eprints, Fedora / Islandora, Invenio, MyCoRe, OPUS
