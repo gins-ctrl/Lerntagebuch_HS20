@@ -29,12 +29,12 @@ Als Übung sollten wir uns mittels Teilgruppensitzungen in Webex austauschen kö
 
 ## Funktion und Aufbau von Bibliothekssystemen Teil 1 – MARC21 & Dublin Core
 MARC21 und Dublin Core sind international verbreitete Metadatenstandards, denen ich bereits in anderen Modulen in der Theorie begegnet bin. Auch das Bibliothekssystem Koha, welches wir später noch kennen lernen, und viele andere grossen Bibliothekssoftware basieren auf MARC21 oder unterstützen es zumindest als Austauschformat. Der von uns vorgenommene Vergleich der beiden Metadatenstandards hat ergeben, dass 
-+ MARC21 von vielen Kontrollfeldern und Zahlencodes lebt, die es zu verstehen gilt
-+ Mit MARC21 werden hingegen auch mehr Informationen geliefert als bei Dublin Core (DC)
-+ In DC sind aussagekräftigere Namespaces (und nicht Codes) zu finden,
-+ das ganze kommt schlanker daher und wirkt darum auch übersichtlicher und ist besser von Menschen lesbar
++ MARC21 von vielen Kontrollfeldern und Zahlencodes lebt, die es zu verstehen gilt,
++ mit MARC21 hingegen auch mehr Informationen geliefert werden als bei Dublin Core (DC),
++ in DC aussagekräftigere Namespaces (und nicht Codes) zu finden sind,
++ das Ganze schlanker wirkt und daher kommt und darum auch übersichtlicher und besser von Menschen lesbar ist.
 
-Fazit: MARC21 ist zwar mühsam, es lohnt sich aber wegen der Vermeidung von Informationsverlust (da mehr Informationen ausgeliefert werden) damit zu arbeiten.
+Fazit: MARC21 ist zwar mühsam, es lohnt sich aber wegen der Vermeidung von Informationsverlusten (da mehr Informationen ausgeliefert werden) damit zu arbeiten.
 
 ## Koha
 Koha war ja bereits auf der Modulübersicht zu sehen. Es handelt sich um ein weltweites Open Source Projekt und ist eher als Bibliotheksmanagement-System und nicht als Katalog-Software zu verstehen, respektive zu nutzen. Die Installation verlief wegen des sehr detaillierten [Tutorials von Stephan Tetzel](https://zefanjas.de/wie-man-koha-installiert-und-fuer-schulen-einrichtet-teil-1/) gut. Weiteres ist darüber im nächsten Post zu lesen...
