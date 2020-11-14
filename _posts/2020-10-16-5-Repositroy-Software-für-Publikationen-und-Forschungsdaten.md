@@ -25,7 +25,7 @@ ArchivesSpace bietet nebst der OAI-PMH Schnittstelle die Möglichkeit Daten in u
 
 Auch spannend (und bedenklich): ArchivesSpace unterschlägt bei einem fehlgeschlagenen Import nützliche Informationen.. Zwar wird ausgegeben, dass der Import funktioniert hat – wird jedoch ein Blick in die Logdatei geworfen, stellt man fest, dass dem gar nicht so ist. Diese Fehlermeldung geht irgendwo jenseits der AS-Untiefen verloren. Ausserdem dürfe an der Usability von ArchivesSpace gerne noch ein wenig geschraubt werden. Denn das Ausfindigmachen der Option ‚Import‘, bzw. ‚Export‘ ist bei weitem nicht intuitiv. 
 
-Weiterer „Fun Fact“: bei ArchivesSpace gibt’s keine kostenlose online-Hilfe für alle gleichermassen nutzbare. Diese steht nur zahlenden Mitglieder zur Verfügung – dasselbe mit dem Benutzerhandbuch. Entspricht also nicht wirklich unserem Verständnis von „open“.
+Weiterer „Fun Fact“: bei ArchivesSpace gibt’s keine kostenlose online-Hilfe, die für alle gleichermassen nutzbar ist. Diese steht nur zahlenden Mitglieder zur Verfügung – dasselbe mit dem Benutzerhandbuch. Entspricht also nicht wirklich unserem Verständnis von „open“.
 
 ## Marktüberblick Archivsysteme
 + ArchivesSpace wird vor allem in den USA durch eine grosse Community gestützt und genutzt
