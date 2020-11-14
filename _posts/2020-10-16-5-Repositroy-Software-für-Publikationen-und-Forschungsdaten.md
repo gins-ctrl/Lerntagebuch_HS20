@@ -9,7 +9,7 @@ Obschon wir die Bedienung von ArchivesSpace (AS) bereits am Ende der letzten Vor
 Als Grundkonfiguration galt es ein eigenes Repository in ArchivesSpace zu erstellen. Hier für uns wichtig zu beachten: das Anwählen der Checkbox *Publish?* wird – soll das Repository später dann im public interface einsehbar sein – vorausgesetzt. Danach galt es eigene Datensätze zu erstellen, die dann in eben genanntem public interface zu sehen sein sollen. In AS können ausschliesslich die Sprachen Englisch, Spanisch, Französisch und Japanisch konfiguriert werden, weshalb für das Handling der Software das Verständnis der (in meinem Falle) englischen Begriffe wie 'Accession', 'Resource' und 'Archival Objecst' unabdingbar ist. 
 
 + Accession: 
-  + Um dem Provenienzprinzip Folge zu leisten ist es vorerst notwendig Informationen zur  Herkunft/zum Erwerb des Bestandes zu erfassen (also wie ist der Bestand  entstanden? Wie sind die Materialien ins Archiv gekommen? Welche „Stationen“ durchliefen sie?). Es wird also ein Datensatz für die Bestandeserwerbung erstellt, der dann wiederum mit Ressourcen verknüpft werden kann. Die bei Accession hinterlegten Informationen werden dann den damit verknüpften Resosurcen „vererbt“.
+  + Um dem Provenienzprinzip Folge zu leisten ist es vorerst notwendig Informationen zur  Herkunft/zum Erwerb des Bestandes zu erfassen (also was wissen wir über die Entstehung des Bestandes? Wie sind die Materialien ins Archiv gekommen?). Es wird also ein Datensatz für die Bestandeserwerbung erstellt, der dann wiederum mit Ressourcen verknüpft werden kann. Die bei Accession hinterlegten Informationen werden dann den damit verknüpften Ressourcen „vererbt“.
 
 + Resource: 
   + Mittels Anlegen von einem Ressourcen-Datensatz können dann die Bestände und Materialien selbst erschlossen werden. Dies stellt der zentrale Nachweis auf der obersten Verzeichnungsstufe dar. Eine Ressource kann selbst eine Collection (Bestand) sein, an die wiederum weitere Collections oder aber Archival Objects angehängt werden können.
@@ -29,13 +29,13 @@ Weiterer „Fun Fact“: bei ArchivesSpace gibt’s keine kostenlose online-Hilf
 + ArchivesSpace wird vor allem in den USA durch eine grosse Community gestützt und genutzt
 + Acess to Memory (AtoM) ist eine weitere Open-Source Lösung 
 + In der Schweiz marktführend sind die Systeme Scope.Archiv und CMISTAR
-+ (Die Visualisierung von Digitalisaten wird oftmals mit einer zusätzlichen Software-Lösung angegangen, so bspw. die e-Pics-Plattform der ETH Zürich (, die auch meine Praktikumsstelle (Fotostiftung Schweiz) verwendet))
+(Die Visualisierung von Digitalisaten wird oftmals mit einer zusätzlichen Software-Lösung angegangen. Beispiel: e-Pics-Plattform der ETH Zürich, die auch meine Praktikumsstelle (Fotostiftung Schweiz) verwendet)
 
 ## Bibliotheks- und Archivsoftware im Vergleich
-Bibliotheken setzen den Fokus auf die Vermittlung von Medien und legen viel Wert auf die Interaktion mit den Benutzer'innen. Bei öffentlichen Biblios stehen eher Veranstaltungs- und Content-Management und die optische Ausgestaltung der Werkzeuge und Systeme im Mittelpunkt. Bei wissenschaftlichen Biblios eher die Erschliessung und das e-Ressourcen-Management. Die Darstellungsweise ist also eher neutral und etwas nüchterner. Archive dagegen basieren bezüglich der Erfassung und Abbildung ihrer Bestände auf dem Provenienzprinzip, was sich natürlich auch in der Software zeigt. Diese soll also nicht so medienzentriert wie bei Bibliotheken sein, sondern sich an den Findmitteln und der meist hierarchischen Bestandesstrukturen orientieren.
+Bibliotheken setzen den Fokus auf die Vermittlung von Medien und legen viel Wert auf die Interaktion mit den Benutzer'innen. Bei öffentlichen Biblios stehen eher Veranstaltungs- und Content-Management und die optische Ausgestaltung der Werkzeuge und Systeme im Mittelpunkt. Bei wissenschaftlichen Biblios eher die Erschliessung und das e-Ressourcen-Management. Die Darstellungsweise ist also eher neutral und etwas nüchterner. Archive dagegen basieren bezüglich der Erfassung und Abbildung ihrer Bestände auf dem Provenienzprinzip, was sich natürlich auch auf die Software-Anforderungen auswirkt: BibliotheksSoftware soll medienzentriert sein, Archivsoftware soll sich an den Findmitteln und der meist hierarchischen Bestandesstrukturen orientieren.
 
 ## Repository-Software für Publikationen und Forschungsdaten
-Da es mich weniger interessiert und ich wieder zu viel schreibe, das Wichtigste in Kürze:
+Das Wichtigste in Kürze:
 Open Access: freier Zugang zu PUBLIKATIONEN 
 Open Data: Verzeichnis von FORSCHUNGSDATEN 
 Forschungsinformation: Informationen über die Forschenden selbst, Forschungsfinanzierung, Patente,
