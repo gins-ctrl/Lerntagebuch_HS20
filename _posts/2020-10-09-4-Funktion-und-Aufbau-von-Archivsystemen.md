@@ -2,7 +2,7 @@
 title: "4 Funktion und Aufbau von Archivsystemen"
 date: 2020-10-09
 ---
-Archive im Weltall 
+ArchivesSpace Teil 1 
 
 In der 3. Vorlesung (Link noch setzen) wurde die Schnittstelle OAI-PMH bei dem Exkurs „Datenexport und Schnittstellen“ gestreift. Als Folge dessen kamen bereits Fragen nach Sinn und Nutzen davon für eine Bibliothek auf..
 Als ein Nebeneffekt, respektive als sekundären Nutzen von OAI-Schnittstellen wird die Möglichkeit genannt, dass damit die eigenen Daten weiterverarbeitet oder abgerufen werden können um sie dann in Discovery-Systemen oder als Metadatengrundlage für Digitalisierungsprozesse einzusetzen. 
