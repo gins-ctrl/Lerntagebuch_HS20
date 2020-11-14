@@ -28,7 +28,7 @@ Weiterer „Fun Fact“: bei ArchivesSpace gibt’s keine kostenlose online-Hilf
 + ArchivesSpace wird vor allem in den USA durch eine grosse Community gestützt und genutzt
 + Acess to Memory (AtoM) ist eine weitere Open-Source Lösung 
 + In der Schweiz marktführend sind die Systeme Scope.Archiv und CMISTAR
-(Die Visualisierung von Digitalisaten wird oftmals mit einer zusätzlichen Software-Lösung angegangen. Beispiel: e-Pics-Plattform der ETH Zürich, die auch meine Praktikumsstelle (Fotostiftung Schweiz) verwendet)
+  (Die Visualisierung von Digitalisaten wird oftmals mit einer zusätzlichen Software-Lösung angegangen. Beispiel: e-Pics-Plattform der ETH Zürich, die auch meine Praktikumsstelle (Fotostiftung Schweiz) verwendet)
 
 ## Bibliotheks- und Archivsoftware im Vergleich
 Bibliotheken setzen den Fokus auf die Vermittlung von Medien und legen viel Wert auf die Interaktion mit den Benutzer'innen. Bei öffentlichen Biblios stehen eher Veranstaltungs- und Content-Management und die optische Ausgestaltung der Werkzeuge und Systeme im Mittelpunkt. Bei wissenschaftlichen Biblios eher die Erschliessung und das e-Ressourcen-Management. Die Darstellungsweise ist also eher neutral und etwas nüchterner. Archive dagegen basieren bezüglich der Erfassung und Abbildung ihrer Bestände auf dem Provenienzprinzip, was sich natürlich auch auf die Software-Anforderungen auswirkt: Bibliothekssoftware soll medienzentriert sein und arbeitet hauptsächlich mit dem Metadatenformat MARCXML, Archivsoftware soll sich an den Findmitteln und der meist hierarchischen Bestandesstrukturen orientieren und nutzt das Metadatenformat EAD (und vielleicht bald RiC).
