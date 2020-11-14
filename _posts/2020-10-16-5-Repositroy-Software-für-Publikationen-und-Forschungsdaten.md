@@ -5,7 +5,7 @@ date: 2020-10-16
 ArchivesSpace Teil 2: Praxis
 
 
-Als Grundkonfiguration galt es ein eigenes Repository in ArchivesSpace zu erstellen. Hier für uns wichtig zu beachten: das Anwählen der Checkbox *Publish?* wird – soll das Repository später dann im public interface einsehbar sein – vorausgesetzt. Danach galt es eigene Datensätze zu erstellen, die dann in eben genanntem public interface zu sehen sein sollen. In AS können ausschliesslich die Sprachen Englisch, Spanisch, Französisch und Japanisch konfiguriert werden, weshalb für das Handling der Software das Verständnis der (in meinem Falle) englischen Begriffe wie 'Accession', 'Resource' und 'Archival Objecst' unabdingbar ist. 
+Als Grundkonfiguration galt es ein eigenes Repository in ArchivesSpace (AS) zu erstellen, das dann später im public interface einsehbar sein soll (dafür Checkbox *Publish?* anwählen). Darin galt es eigene Datensätze zu erstellen, respektive anzulegen. Die Übung hat gezeigt, dass für das Handling und das Verständnis der Software die Begrifflichkeiten 'Accession', 'Resource' und 'Archival Objecst' klar sein müssen. (P.S. Auch das Datensätze-anlegen empfanden wir in der Gruppe keineswegs als trivial, denn die vielen Felder lösen auch viele Fragen aus ;))
 
 + Accession: 
   + Um dem Provenienzprinzip Folge zu leisten ist es vorerst notwendig Informationen zur  Herkunft/zum Erwerb des Bestandes zu erfassen (also was wissen wir über die Entstehung des Bestandes? Wie sind die Materialien ins Archiv gekommen?). Es wird also ein Datensatz für die Bestandeserwerbung erstellt, der dann wiederum mit Ressourcen verknüpft werden kann. Die bei Accession hinterlegten Informationen werden dann den damit verknüpften Ressourcen „vererbt“.
