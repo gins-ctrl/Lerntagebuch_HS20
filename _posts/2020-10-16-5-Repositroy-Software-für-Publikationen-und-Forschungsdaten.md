@@ -2,10 +2,8 @@
 title: "5 Repository-Software für Publikationen und Forschungsdaten"
 date: 2020-10-16
 ---
-inkl. ArchivesSpace Teil 2 
+ArchivesSpace Teil 2: Praxis
  
-Obschon wir die Bedienung von ArchivesSpace (AS) bereits am Ende der letzten Vorlesung begonnen haben, folgt hier der gesamte praktische Teil. 
-
 Als Grundkonfiguration galt es ein eigenes Repository in ArchivesSpace zu erstellen. Hier für uns wichtig zu beachten: das Anwählen der Checkbox *Publish?* wird – soll das Repository später dann im public interface einsehbar sein – vorausgesetzt. Danach galt es eigene Datensätze zu erstellen, die dann in eben genanntem public interface zu sehen sein sollen. In AS können ausschliesslich die Sprachen Englisch, Spanisch, Französisch und Japanisch konfiguriert werden, weshalb für das Handling der Software das Verständnis der (in meinem Falle) englischen Begriffe wie 'Accession', 'Resource' und 'Archival Objecst' unabdingbar ist. 
 
 + Accession: 
