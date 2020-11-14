@@ -44,5 +44,5 @@ Das Wichtigste in Kürze:
 + ORCID: Zusammenschluss von Verlagen und Institutionen mit dem Ziel international eine ID für Forschende umzusetzen (wie die DOI für Dokumente)
 
 #### Wir lernen DSpace…
-…als Software für Publikationen und Forschungsdaten (in der Demo Version) kennen, die mit dem Metadatenstandard Qualified Dublin Core arbeitet. Die Erweiterung für die Verwaltung von Forschungsinformationen ist dann DSpace-CRIS. Ende. *Zeichenmangel-Cliffhanger*
+…als Software für Publikationen und Forschungsdaten (in der Demo Version) kennen, die mit dem Metadatenstandard Qualified Dublin Core arbeitet. Die Erweiterung für die Verwaltung von Forschungsinformationen ist dann DSpace-CRIS. Ende. *Durch Zeichenmangel bedingter Cliffhanger*
 
