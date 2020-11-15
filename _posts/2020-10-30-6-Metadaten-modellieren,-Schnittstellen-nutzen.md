@@ -37,3 +37,4 @@ Für mich als Learning:
 + bei DSpace 2x, da sie einmal im ursprünglichen Dublin Core und dann im Zielformat MARC-XML vorliegen
 und bei ArchivesSpace schlussendlich 3x, da die Metadaten in EAD, MARC und MARC-XML vorliegen. 
 
+Für die nächste Lehreinheit wird die Installation von OpenRefine und das Durcharbeiten von Lehrmaterialien dazu vorausgesetzt. Das habe ich beides mit einiger Überwindung und Startschwierigkeiten bei der Installation erledigt :)
