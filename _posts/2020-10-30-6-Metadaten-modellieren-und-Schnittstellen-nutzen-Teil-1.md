@@ -10,7 +10,7 @@ Die neue Modulübersicht zeigt, dass es jetzt mittels OAI-PMH-Schnittstelle(n) u
 ![Aktualisierter Modulüberblick](https://pad.gwdg.de/uploads/upload_19a6e70e127583b4c50e24282bf7e3fd.png)
 
 Auch auf dem Schaubild und Thema zukünftiger Lehreinheiten: 
-Die Daten sollen als nächstes in ein Discovery-System geladen werden. In unserem Beispiel wäre das Vufind, das mit einer eigenen Software und mit Solr als Basis arbeitet.  Solr wiederum ist ein Suchindex, respektive eine Volltextsuchmaschine, die weit verbreitet eingesetzt wird. Es handelt sich dabei also nicht um eine auf Bibliotheken und Archive spezifizierte sondern um eine Internetstanardtechnologie.
+Die Daten sollen als nächstes in ein Discovery-System geladen werden. In unserem Beispiel wäre das Vufind, das mit einer eigenen Software und mit Solr als Basis arbeitet.  Solr wiederum ist ein Suchindex, respektive eine Volltextsuchmaschine, die weit verbreitet eingesetzt wird. Es handelt sich dabei also nicht um eine auf Bibliotheken und Archive spezifizierte sondern um eine Internetstandardtechnologie.
 
 
 ## 3 wichtige Übertragungsprotokolle im Archiv- und Bibliotheksbereich
@@ -32,9 +32,6 @@ Die Installation von MarcEdit in der Shell funktionierte ebenfalls einwandfrei u
 Die Übung, bei der MarcEdit angewendet wurde, war etwas demotivierend und holprig.. (Zum Glück funktioniert es in den Teilgruppensitzungen dann doch immer bei jemandem irgendwie ;))
 
 Für mich als Learning: 
-+ Bei ArchivesSpace ist ein Zwischenschritt notwendig um vom Format EAD in MARC-XML zu kommen. Es gilt also zuerst die EAD-Daten in MARC und daraus dann MARC-XML zu „machen“.  Dies erklärt dann auch, weshalb in den Metadatenordnern (, die ja eben bestenfalls pro System einzeln angelegt wurden) 
-+ bei Koha die Datensätze nur 1x vorhanden sind, weil ja keine Konvertierung nötig war, da die Daten bereits in MARC-XML vorliegen
-+ bei DSpace 2x, da sie einmal im ursprünglichen Dublin Core und dann im Zielformat MARC-XML vorliegen
-und bei ArchivesSpace schlussendlich 3x, da die Metadaten in EAD, MARC und MARC-XML vorliegen. 
++ Bei ArchivesSpace ist ein Zwischenschritt notwendig um vom Format EAD in MARC-XML zu kommen. Es gilt also zuerst die EAD-Daten in MARC und daraus dann MARC-XML zu „machen“.  Dies erklärt dann auch, weshalb in den Metadatenordnern (, die ja eben bestenfalls pro System einzeln angelegt wurden) bei Koha die Datensätze nur 1x vorhanden sind (weil ja keine Konvertierung nötig war, da die Daten bereits in MARC-XML vorliegen), bei DSpace 2x (da sie einmal im ursprünglichen Dublin Core und dann im Zielformat MARC-XML vorliegen) und bei ArchivesSpace schlussendlich 3x vorliegen (da die Metadaten in den Formaten EAD, MARC und MARC-XML vorhanden sind). 
 
-Für die nächste Lehreinheit wird die Installation von OpenRefine und das Durcharbeiten von Lehrmaterialien dazu vorausgesetzt. Das habe ich beides mit einiger Überwindung und Startschwierigkeiten bei der Installation erledigt :)
+Für die nächste Lehreinheit wird die Installation von OpenRefine und das Durcharbeiten von den [Lehrmaterialien](https://librarycarpentry.org/lc-marcedit/01-introduction/index.html) dazu vorausgesetzt. Das habe ich beides mit einiger Überwindung und Startschwierigkeiten bei der Installation erledigt :)
