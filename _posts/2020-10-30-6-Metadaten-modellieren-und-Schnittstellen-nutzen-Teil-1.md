@@ -2,7 +2,7 @@
 title: "6 Metadaten modellieren und Schnittstellen nutzen Teil 1"
 date: 2020-10-30
 ---
-SRU, OAI-PMH, Z39.50 & XSLT und Crosswalks. Aha. Okay. also, hää? 
+SRU, OAI-PMH, Z39.50 & XSLT und Crosswalks. Aha. Okay. Also, hää? 
 
 Tag Nr. 6 steht im Zeichen des Übertragens und Konvertierens. Laut Titel und Modulbeschreibung gar der Metadatenmodellierung – wir arbeiten aber mit XSLT und MarcEdit und wenden somit keine Programmiersprache an (was mir auch recht ist ;)). Aber der Reihe nach:
 Die neue Modulübersicht zeigt, dass es jetzt mittels OAI-PMH-Schnittstelle(n) ums Herunterladen der Metadaten aus den verschiedenen Systemen geht: Aus Koha werden die Daten im Format MARC21-XML, aus ArchivesSpace in EAD und aus DSpace in Dublin Core ‚geharvestet‘, was so viel wie ernten oder abgrasen bedeutet. (Da sich metha als OAI Harvester nicht reibungslos einsetzen lässt und etwas „hakelig“ ist, wird in dieser Lehreinheit nun VuFindHarvest eingesetzt). Die verschiedenen Formate sollen daraufhin mit MarcEdit in ein einheitliches Format, nämlich MARC21-XML gebracht werden. Eigentlich könnte bereits mit MarcEdit direkt geharvestet werden. Der Einsatz von mehreren Tools soll aber beim Verständnis der Schritte helfen und aufzeigen was da genau passiert. (By the way: MARCXML ist dasselbe wie MARC21-XML!!!)
