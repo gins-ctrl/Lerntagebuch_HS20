@@ -5,3 +5,4 @@ date: 2020-11-20
 messy data und stressy template
 
 Das neuste Schaubild vom BAIN Modul beinhaltet neu die Erweiterung des Discovery-Systems OpenRefine. Um das sich die 7. Vorlesung und somit auch dieser Blogbeitrag dreht.
+(https://pad.gwdg.de/uploads/upload_3397b1411b4205df59374eff374e81a8.png)
