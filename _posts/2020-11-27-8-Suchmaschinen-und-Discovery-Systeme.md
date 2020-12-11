@@ -20,7 +20,9 @@ wget https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd
 xmllint *.xml --noout --schema MARC21slim.xsd 
 ```
 Zu Beginn einer XML-Datei wird für die Programme, die dann damit arbeiten sollen, angegeben, dass es sich um eine XML-Datei handelt. Das sieht so aus (Reihenfolge der Attribute ist fix und so vorgegeben): 
+
 ``` <?xml version="1.0" encoding="utf-8" standalone="yes"?> ```
+
 Die spitzen Klammern und ‘xml’ geben an, um was für eine Datei es sich handelt. Danach folgt eine Versionsangabe (es gibt nur 2 Versionen ;)), die es unbedingt zu deklarieren gilt. Daraufhin wird die Zeichencodierung angegeben (hier Standard Unicode) und auf eine allfällige DTD verwiesen. Diese Angaben sind im Gegensatz zur Versionsangabe keine Pflicht, gehören aber zur guten Praxis.
 
 ### Weitere Tools zur Metadatentransformation
