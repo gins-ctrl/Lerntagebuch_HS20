@@ -66,4 +66,4 @@ Learnings:
 -	Alles in geschweiften Klammern ist GREL 
 
 In der nächsten Übung ging es noch um die Ergänzung des Templates. Hier hatten wir als Gruppe jedoch bisschen Schwierigkeiten und Zeitprobleme, da wir am eigenen Leib erfahren haben wie schade es ist, dass die Eingabe im Template-Fenster nicht gespeichert wird, wenn dieses geschlossen wird… Wirklich ärgerlich, wenn kurz nochmal was nachgesehen werden muss und schwups kann nochmals von vorn begonnen werden. 
-Mit diesem etwas ernüchterndem Erlebnis war auch die Zeit der Vorlesung um. Die Aufgabe inkl. Zusatzartikel darüber wird noch nachgeholt, aber lag diese Woche wirklich nicht drin.
+Mit diesem etwas ernüchterndem Erlebnis war auch die Zeit der Vorlesung um. Die Aufgabe inkl. Zusatzartikel darüber wird bei Gelegenheit noch nachgeholt.
