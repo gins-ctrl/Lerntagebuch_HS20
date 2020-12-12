@@ -37,7 +37,7 @@ Hier nochmals die Merkmale von OpenRefine in zusammenfassender Auflistung:
 Alternative Software wären bspw. Catmandu (Perl), Metafacture (Java), MarcEdit (für MARC21)
 
 ### LIDO – ein Metadatenstandard für den Museumsbereich
-LIDO steht für Lightweight Information Describing Objects und dient der Beschreibung von Kulturobjekten. Basis für den XML-Standard ist das CIDOC Conceptual Reference Model (CRM), das sehr abstrakt ist und mittels URI-Definitionen für Entitäten und Relationen funktioniert. Die Terminologie von LIDO ist also CIDOC CRM orientiert. Durch die spezielle Struktur ist die verlustfreie Transformation in andere Formate jedoch schwierig und kaum verlustfrei möglich. Denn die Besonderheit von LIDO ist die ereignis-zentrierte Beschreibung von Objekten und die Kontextherstellung zwischen zwei Entitäten. Wenn also Entitäten am gleichen Ereignis „beteiligt“ sind, dann muss dessen Beziehung miteinander nicht explizit definiert werden. Dieses Beziehungsgeflecht droht jedoch bei Transformationen verloren zu gehen. Lido wird nicht per se in allen Museen eingesetzt, sondern wird einfach als Austauschformat genutzt auch mit anderen Plattformen.
+LIDO steht für Lightweight Information Describing Objects und dient der Beschreibung von Kulturobjekten. Basis für den XML-Standard ist das CIDOC Conceptual Reference Model (CRM), das sehr abstrakt ist und mittels URI-Definitionen für Entitäten und Relationen funktioniert. Die Terminologie von LIDO ist also CIDOC CRM orientiert. Durch die spezielle Struktur ist eine verlustfreie Transformation in andere Formate jedoch äusserst schwierig. Denn die Besonderheit von LIDO ist die ereignis-zentrierte Beschreibung von Objekten und die Kontextherstellung zwischen zwei Entitäten. Wenn also Entitäten am gleichen Ereignis „beteiligt“ sind, dann muss dessen Beziehung miteinander nicht explizit definiert werden. Dieses Beziehungsgeflecht droht jedoch bei Transformationen verloren zu gehen. Lido wird nicht per se in allen Museen eingesetzt, sondern wird einfach als Austauschformat genutzt auch mit anderen Plattformen.
 
 #### LIDO - Struktur
 + deskriptive Metadaten:
@@ -62,4 +62,4 @@ BILD NOCH EINFÜGEN
 
 BILD NOCH EINFÜGEN
 
-Die Konfiguration von VuFind war wegen der bereits sehr fortgeschrittenen Zeit als Aufgabe vor der nächsten Vorlesung mit Hilfe eines Videos zu vorbereiten. 
+Die Konfiguration von VuFind war wegen der bereits sehr fortgeschrittenen Zeit als Aufgabe vor der nächsten Vorlesung mit Hilfe eines Videos vorzubereiten. 
