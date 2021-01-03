@@ -4,7 +4,7 @@ date: 2021-01-03
 ---
 Geschafft!
 
-Es gibt wahrscheinlich keinen besseren Zeitpunkt als zu Beginn eines neuen Jahres einen Rück- und Ausblick auf das besuchte (und zumindest gefühlt bereits abgeschlossene) Modul ‚Bibliotheks- und Archivinformatik‘ und auf die persönliche Lernkurve zu wagen :)
+Es gibt wahrscheinlich keinen besseren Zeitpunkt einen Rück- und Ausblick auf das besuchte (und zumindest gefühlt bereits abgeschlossene) Modul ‚Bibliotheks- und Archivinformatik‘ und auf die persönliche Lernkurve zu wagen als zu Beginn eines neuen Jahres!
 
 In meinem ersten Blogbeitrag habe ich den Bogen hin zur Philosophie geschlagen, die für mich mit Informatik einige Parallelen hat: nicht immer greifbar, etwas abstrakt und weit weg. Nach der letzten Vorlesungen in BAIN kann ich mit Stolz verkünden, dass Informatik für mich immer noch abstrakt und weit weg – aber sehr viel greifbarer geworden ist. 
 
