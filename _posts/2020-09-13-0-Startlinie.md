@@ -1,5 +1,5 @@
 ---
-title: "0 Technische Grundlagen"
+title: "0 Startlinie"
 date: 2020-09-13
 ---
 Wer bin ich und wenn ja wie viele
