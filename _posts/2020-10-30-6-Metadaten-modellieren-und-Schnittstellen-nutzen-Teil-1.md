@@ -23,7 +23,7 @@ Um diese Übung vollbringen zu können, muss vorerst sichergestellt werden, dass
 
 Für das eigentliche Harvesting heisst das nun mittels der öffentlichen Schnittstelle OAI-PMH und den nun verfügbaren Endpoints die Metadaten aus Koha, AS und DSpace laden. Dafür ist es wichtig, die Formate richtig zu benamseln – und zwar so: im MarcXML aus Koha, oai_ead für AS und oai_dc für DSpace. Bei DSpace muss ausserdem Set com_10673_1 angegeben werden. Es empfiehlt sich ausserdem die Daten in verschiedenen Ordnern abzulegen. Das sieht dann unter Verwendung des abgeänderten Beispielbefehls so aus:
 
-BILD NOCH EINFÜGEN
+![]({{site.baseurl}}/assets/6_harvesting.png)
 
 ### Konvertierung: XSLT Crosswalks mit MarcEdit
 Unter Crosswalk versteht man hier in diesem Zusammenhang das Konvertieren von einem Metadatenstandard (bspw. MARC21) in einen anderen (Dublin Core). In einem Crosswalk stehen verschiedene Regeln für die Zuordnung, respektive Veränderung der Elemente und Daten – vergleichbar mit einer Karte, die über eine andere gelegt und so abgeglichen wird (Mapping). Ziel ist es dies verlustfrei tun zu können. Realität ist eher, dass Inhalte und Zusammenhänge den verschiedenen Strukturen der Standards geschuldet, verloren gehen. Crosswalks werden oftmals mit XSLT gemacht, was als eine Programmiersprache für das Transformieren von XML-Dokumenten zu verstehen ist. 
