@@ -1,8 +1,5 @@
 ---
 title: 
-
-
-
 9 Suchmaschinen und Discovery-Systeme Teil 2"
 date: 2020-12-11
 ---
@@ -26,7 +23,7 @@ Datenbanken legen den Schwerpunkt auf konsistente, dauerhaft zu speichernde Date
 
 Der rasche Blick in die VuFind-Dokumentation, die Erklärungen der VuFind-Felder bietet, liess mich gekoppelt mit der kleinen Übung (Suche in VuFind vs. Suche in Solr) die Funktionsweise eines Rankings besser verstehen. So sind im Solr Index Schema mehrere unterschiedliche Felder für das Datum 'Titel' beschrieben. Der Titel kommt normalerweise aus dem MARC-Feld 245a. Die weiteren Titel-Felder dienen schlussendlich einer besseren Ranking-Funktion. Ist bspw. der Suchterm im Haupttitel, wird dies stärker gewichtet als wenn der im Feld 'alternate titel' auftaucht. Ausserdem resultiert bei einer exakten Übereinstimmung von Suchterm und Titel ein höheres Ranking, als wenn nur ein Teil des Titels übereinstimmt. Die Übung verlangte eine Suche in VuFind und dieselbe Suche in Solr (plus da die Logdatei im Terminal ansehen). Die Umsetzung in der Gruppe ging etwas schleppend voran, denn die Darstellung der Logdatei auf dem geteilten Bildschirm einer Kommilitonin war munzig plus nährte das technische Erscheinungsbild meine Überforderung. Erst die Tatsache, dass darin die Multiplikationsfaktoren für die Berechnung der Gewichtung ersichtlich sind, holte mich etwas aus meinem Schockzustand ;) 
 
-BILD NOCH EINFÜGEN
+![Ranking]({{site.baseurl}}/assets/9_ranking.png)
 
 ## Die verheerende Datenintegration
 Ziel der (mich aus der Bahn werfenden) Übung war es, die mit MarcEdit und OpenRefine konvertierten (und somit alle in MARCXML vorliegenden) Daten aus verschiedenen Systemen (Koha, ArchivesSpace, DSpace und DOAJ) in VuFind zu importieren. Um die Ergebnisse besser zu sehen, sollten wir die Testdaten mit folgenden (einzeln einzugebenden) Befehlen löschen: 
