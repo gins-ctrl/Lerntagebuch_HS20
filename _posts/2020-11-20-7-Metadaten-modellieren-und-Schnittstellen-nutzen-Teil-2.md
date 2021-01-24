@@ -24,7 +24,7 @@ Um Daten zu verändern, kann das Drop-Down-Menü mit verschiedenen Optionen genu
 In OpenRefine gibt es einerseits...  
 + die Row-Ansicht: jede Zeile repräsentiert ein einzelnes Record) und 
 + die Records-Ansicht: zu einem bestimmten Record werden alle Zeilen zusammen dargestellt
-...die oben links („show as“) gewechselt werden kann. 
+...die oben links ('show as') gewechselt werden kann. 
 
 Eine der nützlichsten Funktionen in OpenRefine sind Facetten: sie helfen den Überblick zu behalten und die Konsistenz der Daten zu verbessern. In einer Facette können Werte, die in einer Spalte erscheinen, gruppiert werden. So ist das Filtern nach Werten und eine effizientere Bearbeitung mehrerer Datensätze gleichzeitig möglich. Mittels Clustering wiederum ist es möglich, ähnliche aber inkonsistente Daten in einer Spalte zusammenzufassen und diese in bestimmte, dann hoffentlich konsistente Daten zu ändern.
 
