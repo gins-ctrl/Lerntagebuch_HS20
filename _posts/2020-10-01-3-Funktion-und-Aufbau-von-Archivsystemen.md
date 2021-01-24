@@ -38,7 +38,7 @@ Diese sind jeweils im „Wurzelelement“ in der XML-Datei zuhause und dienen de
 
 
 ## Teil 2 von Koha(la)
-(Kohala, deshalb weil ich bei Koha immer an einen :koala: denken muss und mich Verniedlichung etwas freundlicher gegenüber Informatik stimmt) 
+(Kohala, deshalb weil ich bei Koha immer an einen Koala denken muss und mich Verniedlichung etwas freundlicher gegenüber Informatik stimmt) 
 
 Die Installation hat, wie bereits im vorherigen Blogbeitrag beschrieben, einwandfrei funktioniert. Hurray! Ich war danach wohl etwas übereifrig, denn ich habe die Übungen, die während der heutigen Vorlesung in Teilgruppensitzungen gelöst werden sollten, bereits gemacht. Dabei bin ich jedoch über die Suche im NEBIS-Katalog gestoplert, die keine Ergebnisse ausgeben wollte. Die Erklärung dazu folgt…
 
