@@ -7,7 +7,7 @@ Suchmaschinen & Discovery-Systeme Teil 1
 Bevor es mit dem eigentlichen Thema des 8. BAIN-Tages losgeht, werden nachstehend noch einige Thematiken der [letzten Vorlesung](https://gins-ctrl.github.io/Lerntagebuch_HS20/2020/11/20/7-Metadaten-modellieren-und-Schnittstellen-nutzen-Teil-2.html) mit Hinweisen und weiterführenden Aspekten ergänzt damit alles von mir angesprochene – soweit möglich – vollständig ist. 
 
 #### OpenRefine: 
-Das angedeutete Template-Fenster-Problem kann durch das Öffnen von OpenRefine in einem neuen Browser-Tab umgangen werden. So können im neuen Tab mit „Edit cells > Transform“ Änderungen gemacht, respektive Funktionen, Inhalte oder was auch immer von Interesse ist, nachgesehen und ausprobiert werden. Bleibt zu hoffen, dass in der nächsten Version das Fenster nicht komplett neu geladen wird und somit die Eingabe nicht verloren geht. 
+Das angedeutete Template-Fenster-Problem kann durch das Öffnen von OpenRefine in einem neuen Browser-Tab umgangen werden. So können im neuen Tab mit 'Edit cells > Transform' Änderungen gemacht, respektive Funktionen, Inhalte oder was auch immer von Interesse ist, nachgesehen und ausprobiert werden. Bleibt zu hoffen, dass in der nächsten Version das Fenster nicht komplett neu geladen wird und somit die Eingabe nicht verloren geht. 
 Ausserdem hat die Lösung der lobid-gnd Anreichunergs-Aufgabe (noch offen) gezeigt, dass in OpenRefine hierarchische Strukturen in Tabellenform umständlich und komplex in ihrer Verarbeitung sind. 
 Fazit: OpenRefine ist ein spannendes Tool, das – wie alle Systeme (:-)) – Fachwissen über Funktionen, Möglichkeiten und Grenzen voraussetzt damit die Datensätze nicht „zerschossen“ werden.
 
