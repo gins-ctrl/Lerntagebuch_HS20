@@ -21,7 +21,7 @@ Während der letzten Vorlesung kamen wir auf GitHub und GitLab zu sprechen. Ich 
 + die Skalierung des User Interfaces lässt auch eine benutzerfreundliche Ansicht auf mobilen Endgeräten zu.
 
 Sonst noch gut zu wissen: 
-+ [Zitat:](https://www.ionos.de/digitalguide/websites/web-entwicklung/gitlab-vs-github/) von einem Artikel von IONOS (Hosting-Unternehmen) „Da GitHub und GitLab beide auf Git basieren, ist eine Migration von einer Plattform auf die andere ohne größere Probleme möglich.“   
++ [Zitat](https://www.ionos.de/digitalguide/websites/web-entwicklung/gitlab-vs-github/) von einem Artikel von IONOS (Hosting-Unternehmen): „Da GitHub und GitLab beide auf Git basieren, ist eine Migration von einer Plattform auf die andere ohne größere Probleme möglich.“   
 + Auf GitHub sowie auf GitLab findet sich Open Source Software – aber nur GitLab ist selbst Open Source (in der Community Edition)
 
 ### … Namespaces
