@@ -4,7 +4,7 @@ date: 2020-10-09
 ---
 ArchivesSpace Teil 1 
 
-In der [3. Vorlesung] (https://gins-ctrl.github.io/Lerntagebuch_HS20/2020/10/02/3-Funktion-und-Aufbau-von-Archivsystemen.html) wurde die Schnittstelle OAI-PMH bei dem Exkurs „Datenexport und Schnittstellen“ gestreift. Als Folge dessen kamen bereits Fragen nach Sinn und Nutzen davon für eine Bibliothek auf..
+In der [3. Vorlesung](https://gins-ctrl.github.io/Lerntagebuch_HS20/2020/10/02/3-Funktion-und-Aufbau-von-Archivsystemen.html) wurde die Schnittstelle OAI-PMH bei dem Exkurs „Datenexport und Schnittstellen“ gestreift. Als Folge dessen kamen bereits Fragen nach Sinn und Nutzen davon für eine Bibliothek auf..
 Als ein Nebeneffekt, respektive als sekundären Nutzen von OAI-Schnittstellen wird die Möglichkeit genannt, dass damit die eigenen Daten weiterverarbeitet oder abgerufen werden können um sie dann in Discovery-Systemen oder als Metadatengrundlage für Digitalisierungsprozesse einzusetzen. 
 Der primäre Nutzen ist aber vielmehr die Bereitstellung von Daten gegen aussen. So können andere Institutionen oder bspw. Bibliotheksverbünde Metadaten aus verschiedenen Bibliotheken über eine Schnittstelle, die einheitlich und vom Tool, respektive von der Institution unabhängig ist, „anzapfen“ um Regionalbibliographien oder auch Themenportale zu erarbeiten. Bei spezialisierten Schnittstellen, wie Z39.50 eine ist (sie mein NEBIS-Beispiel von der Übung Datenimport mit Koha), kann je nach dem der Port gesperrt sein. Diese Hürde ist bei einer OAI-PMH (oder SRU) Schnittstelle merklich kleiner, denn diese holt die Metadaten über Webports, die in Netzwerken selten gesperrt sind. In der Vorlesung „Metadaten modellieren und Schnittstellen nutzen“ (Link dann noch setzen) wird die Thematik sicherlich nochmals aufgegriffen und behandelt. Daraufhin wurde zu FOLIO noch ergänzend erwähnt, dass es aus wirtschaftlichen, politischen und strategischen Aspekten nicht als eine Alma-Alternative in Betracht gezogen wurde. Uuund, auch nochmals gut zu hören waren die Vorteil(e) bei Open Source Software: verschiedene Institutionen und Entwickler können wegen des offenen Quellcodes daran feilen und arbeiten und verschiedene Anbieter können Dienstleistungen und Support dazu anbieten, was auch einem Vendor-Lock-in entgegenwirkt.
 
@@ -46,6 +46,3 @@ Da ich die Vorlesung etwas früher verlassen musste und ich somit die Bedienung 
 
 Aus ~~dramaturgischen~~ zeitlichen Gründen sind die Übungen mit AS zu Import und Export wie auch der Marktüberblick über die Archivsysteme Inhalt der nächsten Vorlesung!
 …Trommelwirbel…
-
-## To Do`s 
-Text „was sich Historiker’innen von Archiven wünschen“ lesen und wegen den bereits wieder aufgebrauchten Zeichen in einen anderen Beitrag schmuggeln…
