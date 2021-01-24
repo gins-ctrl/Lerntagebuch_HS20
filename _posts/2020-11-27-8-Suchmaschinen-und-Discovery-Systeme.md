@@ -55,11 +55,11 @@ LIDO steht für [Lightweight Information Describing Objects](http://cidoc.mini.i
 Wie auch in der Modulübersicht (Schaubild) sichtbar, werden wir VuFind kennen lernen. Die Installation der Software wurde gemeinsam Schritt für Schritt nach der [offiziellen Anleitung in Ubuntu](https://vufind.org/wiki/installation:ubuntu) durchgearbeitet. 
 Als kleiner Reminder betreffend Installationen: am besten wäre nur eine Software pro Server zu installieren. Dies ist heutzutage durch Virtualisierung und mittels Container einfach möglich. Unser Server ist etwas „vorbelastet“ mit ArchivesSpace, OpenRefine und allem was wir bis jetzt installiert haben. Anyway, die Auto-Konfiguration und die Installation hat bei mir geklappt :)
 
-BILD NOCH EINFÜGEN
+![autoConfigure]({{site.baseurl}}/assets/8_autoConfigure.png)
 
  mit den Bemerkungen und Hinweisen im Skript helfen enorm um die Schritte auch zu verstehen.
 „Anschließend sollten in der Suchoberfläche unter http://localhost/vufind ca. 250 Datensätze enthalten sein.“ 
 
-BILD NOCH EINFÜGEN
+![250 Datensaetze]({{site.baseurl}}/assets/8_250Datensaetze.png)
 
 Die Konfiguration von VuFind war wegen der bereits sehr fortgeschrittenen Zeit als Aufgabe vor der nächsten Vorlesung mit Hilfe eines Videos vorzubereiten. 
