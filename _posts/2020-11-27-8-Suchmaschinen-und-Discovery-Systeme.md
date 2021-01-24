@@ -4,7 +4,7 @@ date: 2020-11-27
 ---
 Suchmaschinen & Discovery-Systeme Teil 1
 
-Bevor es mit dem eigentlichen Thema des 8. BAIN-Tages losgeht, werden nachstehend noch einige Thematiken der letzten Vorlesung (Link setzen) mit Hinweisen und weiterführenden Aspekten ergänzt damit alles von mir angesprochene – soweit möglich – vollständig ist. 
+Bevor es mit dem eigentlichen Thema des 8. BAIN-Tages losgeht, werden nachstehend noch einige Thematiken der [letzten Vorlesung](https://gins-ctrl.github.io/Lerntagebuch_HS20/2020/11/20/7-Metadaten-modellieren-und-Schnittstellen-nutzen-Teil-2.html) mit Hinweisen und weiterführenden Aspekten ergänzt damit alles von mir angesprochene – soweit möglich – vollständig ist. 
 
 #### OpenRefine: 
 Das angedeutete Template-Fenster-Problem kann durch das Öffnen von OpenRefine in einem neuen Browser-Tab umgangen werden. So können im neuen Tab mit „Edit cells > Transform“ Änderungen gemacht, respektive Funktionen, Inhalte oder was auch immer von Interesse ist, nachgesehen und ausprobiert werden. Bleibt zu hoffen, dass in der nächsten Version das Fenster nicht komplett neu geladen wird und somit die Eingabe nicht verloren geht. 
@@ -37,7 +37,7 @@ Hier nochmals die Merkmale von OpenRefine in zusammenfassender Auflistung:
 Alternative Software wären bspw. Catmandu (Perl), Metafacture (Java), MarcEdit (für MARC21)
 
 ### LIDO – ein Metadatenstandard für den Museumsbereich
-LIDO steht für Lightweight Information Describing Objects und dient der Beschreibung von Kulturobjekten. Basis für den XML-Standard ist das CIDOC Conceptual Reference Model (CRM), das sehr abstrakt ist und mittels URI-Definitionen für Entitäten und Relationen funktioniert. Die Terminologie von LIDO ist also CIDOC CRM orientiert. Durch die spezielle Struktur ist eine verlustfreie Transformation in andere Formate jedoch äusserst schwierig. Denn die Besonderheit von LIDO ist die ereignis-zentrierte Beschreibung von Objekten und die Kontextherstellung zwischen zwei Entitäten. Wenn also Entitäten am gleichen Ereignis „beteiligt“ sind, dann muss dessen Beziehung miteinander nicht explizit definiert werden. Dieses Beziehungsgeflecht droht jedoch bei Transformationen verloren zu gehen. Lido wird nicht per se in allen Museen eingesetzt, sondern wird einfach als Austauschformat genutzt auch mit anderen Plattformen.
+LIDO steht für [Lightweight Information Describing Objects](http://cidoc.mini.icom.museum/working-groups/lido/what-is-lido/) und dient der Beschreibung von Kulturobjekten. Basis für den XML-Standard ist das CIDOC Conceptual Reference Model (CRM), das sehr abstrakt ist und mittels URI-Definitionen für Entitäten und Relationen funktioniert. Die Terminologie von LIDO ist also CIDOC CRM orientiert. Durch die spezielle Struktur ist eine verlustfreie Transformation in andere Formate jedoch äusserst schwierig. Denn die Besonderheit von LIDO ist die ereignis-zentrierte Beschreibung von Objekten und die Kontextherstellung zwischen zwei Entitäten. Wenn also Entitäten am gleichen Ereignis „beteiligt“ sind, dann muss dessen Beziehung miteinander nicht explizit definiert werden. Dieses Beziehungsgeflecht droht jedoch bei Transformationen verloren zu gehen. Lido wird nicht per se in allen Museen eingesetzt, sondern wird einfach als Austauschformat genutzt auch mit anderen Plattformen.
 
 #### LIDO - Struktur
 + deskriptive Metadaten:
