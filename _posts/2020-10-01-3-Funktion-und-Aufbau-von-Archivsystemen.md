@@ -2,7 +2,7 @@
 title: "3 Funktion und Aufbau von Archivsystemen"
 date: 2020-10-02
 ---
-Koha(la) :koala:
+Koha(la)
 
 Bevor es an die Lehrinhalte geht hier vorab noch einige relevante Kommentare und Hinweise seitens der Dozierenden…
 
@@ -21,7 +21,7 @@ Während der letzten Vorlesung kamen wir auf GitHub und GitLab zu sprechen. Ich 
 + die Skalierung des User Interfaces lässt auch eine benutzerfreundliche Ansicht auf mobilen Endgeräten zu.
 
 Sonst noch gut zu wissen: 
-+[Zitat:](https://www.ionos.de/digitalguide/websites/web-entwicklung/gitlab-vs-github/) von einem Artikel von IONOS (Hosting-Unternehmen) „Da GitHub und GitLab beide auf Git basieren, ist eine Migration von einer Plattform auf die andere ohne größere Probleme möglich.“   
++ [Zitat:](https://www.ionos.de/digitalguide/websites/web-entwicklung/gitlab-vs-github/) von einem Artikel von IONOS (Hosting-Unternehmen) „Da GitHub und GitLab beide auf Git basieren, ist eine Migration von einer Plattform auf die andere ohne größere Probleme möglich.“   
 + Auf GitHub sowie auf GitLab findet sich Open Source Software – aber nur GitLab ist selbst Open Source (in der Community Edition)
 
 ### … Namespaces
@@ -61,7 +61,8 @@ Da ich schon viel getippt, gelesen, geübt und gelernt habe, der Überblick in d
 + [Hier](https://americanlibrariesmagazine.org/wp-content/uploads/2020/04/charts-for-2020-Library-Systems-Report.pdf) die von Marshall Breeding veröffentlichte Statistik-zusammenfassende Tabelle über Bibliothekssysteme, die internationale Entwicklungen erahnen lässt.
 + Swiss Library Service Plattform (kurz SLSP) als kommender Ersatz von Alma
 + FOLIO ist die grösste Open-Source-Alternative, die noch in der Entwicklung steckt
-+ Vergleich Alma und Koha: da will ich mich noch etwas einlesen und werde spätestens im hoffentlich etwas ruhigeren Januar noch ergänzen :snowflake:
++ Vergleich Alma und Koha: In Alma ist im Gegensatz zu Koha (und Aleph) ein ERM (Electronic Resource Management) integriert.
+  P.S.: Alma ist zentral auf Servern von Ex Libris installiert und wird regelmässig Updates unterzogen. Schwachstelle ist die Abhängigkiet und die Marktmacht vom Hersteller (Ex Libris), das immer mit einem gewissen Risiko einhergeht.
 
 Diese manuellen Bedienungen schätze ich als Nicht-Bibliotheks-Mensch sehr. Und gleich als Überleitung zur nächsten Vorlesung: die Installation von ArchivesSpace 2.8.0. hat super funktioniert und ist abgeschlossen. JUUHU!
 
